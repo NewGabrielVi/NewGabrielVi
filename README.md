@@ -21,4 +21,4 @@
 
 - :mailbox:How to reach me: gabriellvitor.e@gmail.com
 
-* 😔I lost my old account in Github:<https://github.com/NewGabrielhue>
+* 😔I lost my old account in Github: <https://github.com/NewGabrielhue>
