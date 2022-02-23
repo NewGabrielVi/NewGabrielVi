@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/OMFfLpauGoT4c/giphy.gif"/>
 </div>
 
+<div>
+  </div>
 <div id="badges">
   <a href="www.linkedin.com/in/gabriellvitor">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
