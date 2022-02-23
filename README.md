@@ -12,7 +12,7 @@
   </a>
 </div>
 
-- :telescope: I'm working and studying to be a Computer Engineer  and contributing to frontend and backend for building web applications.
+- :telescope: I'm studying to be a Computer Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
