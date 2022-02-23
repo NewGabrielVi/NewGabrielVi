@@ -1,4 +1,4 @@
-## 👋Olá, eu sou Gabriel e esse é meu Readme.
+# 👋Olá, eu sou Gabriel e aqui vou contar um pouco sobre mim: <h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/OMFfLpauGoT4c/giphy.gif"/>
 </div>
