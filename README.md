@@ -20,3 +20,5 @@
 - :zap: In my free time, I like play games and read tech articles.
 
 - :mailbox:How to reach me: gabriellvitor.e@gmail.com
+
+-😔 I lost my old account in Githuh <link = " https://github.com/NewGabrielhue">
