@@ -6,11 +6,9 @@
   <a href="www.linkedin.com/in/gabriellvitor">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="No URL for now">
-    <img src="https://img.shields.io/badge/Discord-orange?style=for-the-badge&logo=youtube&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="No URL for now">
-    <img src="https://img.shields.io/badge/Twitter-blueviolet?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -20,9 +18,9 @@
 
 - :zap: In my free time, I like play games and read tech articles.
 
-- :mailbox:How to reach me: gabriellvitor.e@gmail.com
+- :mailbox: How to reach me: gabriellvitor.e@gmail.com
 
-* 😔I lost my old account in Github: <https://github.com/NewGabrielhue>
+* 😔 I lost my old account in Github: <https://github.com/NewGabrielhue>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NewGabrielVi&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NewGabrielVi&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
