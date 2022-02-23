@@ -1,7 +1,8 @@
+## 👋Olá, eu sou Gabriel e esse é meu Readme.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/OMFfLpauGoT4c/giphy.gif"/>
 </div>
-<div id="badges">
+<div id="badges" align ="center">
   <a href="www.linkedin.com/in/gabriellvitor">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
